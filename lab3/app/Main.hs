@@ -1,7 +1,7 @@
 module Main (main) where
 
-import LibInterpolation
-import LibREPL
+import InterpolationUtil
+import REPLUtil
 
 -- | Welcome message
 welcomeInvite :: IO ()

@@ -22,11 +22,11 @@ source-repository head
 
 library
   exposed-modules:
-      LibEval
-      LibInterpolation
-      LibPoint
-      LibREPL
-      LibSlidingWindow
+      EvalUtil
+      InterpolationUtil
+      PointUtil
+      REPLUtil
+      SlidingWindowUtil
   other-modules:
       Paths_lab3
   autogen-modules:
