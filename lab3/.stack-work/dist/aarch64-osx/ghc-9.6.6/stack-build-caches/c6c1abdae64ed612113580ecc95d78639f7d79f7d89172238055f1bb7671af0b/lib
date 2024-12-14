@@ -1,0 +1,22 @@
+/Users/pavelmalkov/.ghcup/ghc/9.6.6/lib/ghc-9.6.6/lib/aarch64-osx-ghc-9.6.6/rts-1.0.2/include/ghcversion.h:
+  hash: 9032f6afc97dcddfe8c8b306639eb6f456e3f6667f3dd8268681f51bb77c8634
+? /Users/pavelmalkov/Haskell/GitHub/functional-programming-3/lab3/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/autogen/Paths_lab3.hs
+: hash: c34dd6f7fc3dd1410a58786569665b294b74214ec52b46dbdced6d00fbd9eb29
+? /Users/pavelmalkov/Haskell/GitHub/functional-programming-3/lab3/.stack-work/dist/aarch64-osx/ghc-9.6.6/build/autogen/cabal_macros.h
+: hash: c582acd193ea0531faee0a1d75d3123c7b6aac9359a3c6ca27e29e963196872b
+/Users/pavelmalkov/Haskell/GitHub/functional-programming-3/lab3/CHANGELOG.md:
+  hash: e48a14cc6c970114ae54dee26cb32a9a7348d729cf2dbcab2b744ddecc987681
+/Users/pavelmalkov/Haskell/GitHub/functional-programming-3/lab3/lab3.cabal:
+  hash: 94e00091f26941ff59bea9346f04f6274f926738530b505e8b5e592a4247b603
+/Users/pavelmalkov/Haskell/GitHub/functional-programming-3/lab3/package.yaml:
+  hash: 369238ca7a4d6fca47c6fff22f64ce57e49589a9c544f3c89fe5cc9ca02fdcef
+/Users/pavelmalkov/Haskell/GitHub/functional-programming-3/lab3/src/LibEval.hs:
+  hash: ec6904dc9bb79547473c15e4056e4de57a9cd543eb758221f5718036d742f19a
+/Users/pavelmalkov/Haskell/GitHub/functional-programming-3/lab3/src/LibInterpolation.hs:
+  hash: c1a0fabe057087919cff65fc758be733603c0101f47a3fdf8c898bf04a9bf92e
+/Users/pavelmalkov/Haskell/GitHub/functional-programming-3/lab3/src/LibPoint.hs:
+  hash: 3ccee02dfddc81d6de10aa5ec0ea3c4592d83907019e900ef28359925945febd
+/Users/pavelmalkov/Haskell/GitHub/functional-programming-3/lab3/src/LibREPL.hs:
+  hash: 40520bc134e5bfc4684ff1af0d8c204203eb72e7afbbd0ba1326ec80f264de3d
+/Users/pavelmalkov/Haskell/GitHub/functional-programming-3/lab3/src/LibSlidingWindow.hs:
+  hash: 90cf64b67006de3bf8d413aa523247b19109962c3905098a72f52c46d7223ec4
